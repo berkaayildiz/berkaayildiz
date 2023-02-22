@@ -12,10 +12,10 @@
   
   <h3>Languages and Tools:</h3>
   
-  <img align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
-  <img align="left" alt="Dart" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dart.svg" />
-  <img align="left" alt="Flutter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" />
-  <img align="left" alt="Git" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
-  <img align="left" alt="LaTeX" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/latex.svg" />
+  <img align="left" alt="Python" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
+  <img align="left" alt="Dart" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dart.svg" />
+  <img align="left" alt="Flutter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" />
+  <img align="left" alt="Git" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
+  <img align="left" alt="LaTeX" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/latex.svg" />
 
 </samp>
